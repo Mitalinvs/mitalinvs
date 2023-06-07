@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mitali Bansal</h1>
+<h1 align="center">Hi 👋 My name is Mitali Bansal</h1>
 <h3 align="center">Coding Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitalinvs&label=Profile%20views&color=0e75b6&style=flat" alt="mitalinvs" /> </p>
 
-- 🌱 I’m currently learning **full stack**
+- 🌱 I’m learning **full stack**
 
-- 📫 How to reach me **mitalinvs@gmail.com**
+- 📫 You can contact me at **mitalinvs@gmail.com**
 
-- ⚡ Fun fact **Googling is my thing ;)**
+- ⚡ **Googling is my thing ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
