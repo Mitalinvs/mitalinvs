@@ -7,8 +7,6 @@
 
 - 📫 You can contact me at **mitalinvs@gmail.com**
 
-- ⚡ **Googling is my thing ;)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/mitalinvs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitalinvs" height="30" width="40" /></a>
